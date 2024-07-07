@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("HelloWorld!");
         System.out.println("HelloWorld!");
         System.out.println("我是dev分支新增的代码");
+        System.out.println("我是master分支新增的代码002");
     }
 }
